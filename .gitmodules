@@ -1,0 +1,3 @@
+[submodule "my_subsubrepo"]
+	path = my_subsubrepo
+	url = https://github.com/tinytrashbin/subsubrepo.git
